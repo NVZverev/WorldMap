@@ -1,0 +1,3 @@
+[submodule "ZverevWorldMap"]
+	path = ZverevWorldMap
+	url = https://github.com/NVZverev/WorldMap.git
